@@ -1,4 +1,4 @@
-# node-google-reviews-web-scraper
+# Indico
 ## Get the reviews from any google maps business 🗺
 ### Contributions are highly appreciated !
 ---
