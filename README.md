@@ -1,4 +1,4 @@
-# Indico
+# kisstinade
 ## Get the reviews from any google maps business 🗺
 ### Contributions are highly appreciated !
 ---
